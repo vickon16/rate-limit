@@ -1,0 +1,7 @@
+
+compatibility_date = "2024-04-08"
+name = "redis-rate-limiting"
+
+[vars]
+REDIS_URL = "https://fine-magpie-53355.upstash.io"
+REDIS_TOKEN = "AdBrAAIncDE5Y2RkMGNiMWM0YjM0NWQwOWJmYTIxMzdlN2Q2OGFkYXAxNTMzNTU"
