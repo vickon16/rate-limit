@@ -30,6 +30,9 @@ yarn-error.log*
 .env
 .env*.local
 
+# wrangler
+wrangler.toml
+
 # vercel
 .vercel
 
